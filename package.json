@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "name": "class_assignment_18-4-2024",
+  "version": "1.0.0",
+  "main": "primeNum.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
